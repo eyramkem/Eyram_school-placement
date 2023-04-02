@@ -1,0 +1,25 @@
+Nourishing School
+Cut-Off Point: 8
+Courses Offered: General Science, Business, General Arts, Visual Arts
+
+Groomed Girls Academy
+Cut-Off Point: 8
+Courses Offered: Business, General Arts, Technical Skills, Home Economics
+
+Savannah Ranges School
+Cut-Off Point: 8
+Courses Offered: Business, General Science, Home Economics, Technical Skills
+
+Open Source School
+Cut-Off Point: 15
+Courses Offered: General Science, General Arts, Software Design,Data Analysis
+
+Jimma High School
+Cut-Off Point:15
+Courses Offered: General Science,Home Economics,Graphic Designing,Ceramic Works
+
+Honesty International
+Cut-Off Point: 13
+Courses Offered: Home Economics, General Arts, Fashion Designing, Visual Arts
+
+
