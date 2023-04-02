@@ -14,7 +14,7 @@ typedef struct {
     char name[50];
     int index_no;
     int Math,English,Science,Social,BDT,ICT,French;
-    char *sex;//we are using a pointer variable here because we'll be directly assigning the token to it(token holds pointer values)
+    char sex;
     int grades[7];
     int aggregate;
 } Student;
@@ -76,7 +76,7 @@ int main()
         students[num_students].French = atoi(token);
         printf("%d\t",students[num_students].French);
         token=strtok(NULL,",");
-        students[num_students].sex=token;
+        strcpy(students[num_students].sex,token);
         printf("%s\n",students[num_students].sex);
        num_students++;
     }
